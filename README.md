@@ -16,7 +16,6 @@ Create a custom plugin. Fork this repository, work on the plugin and send us you
 * CPT should not have its single page for readers and should not be in menu navs for Authors
 * Create a shortcode that will display a video CPT with the following attributes:
 ```
-#!php
 
 [prefix_video id="POST ID" border_color="#3498db"]
 ```
