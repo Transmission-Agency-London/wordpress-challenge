@@ -10,6 +10,7 @@ Create a custom plugin. Fork this repository, work on the plugin and send us you
 
 ### What's the task? ###
 
+* Force use of TinyMCE in the Wordpress editor screen
 * Create a custom plugin
 * The plugin should create a custom post type called Videos
 * CPT must have these fields for admin: Title, Subtitle, Description, Video ID, and Type (options are Youtube, Vimeo and Dailymotion - dropdown or radio buttons)
