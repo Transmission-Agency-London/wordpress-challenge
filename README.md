@@ -10,7 +10,6 @@ Create a custom plugin to display a video from a custom post type.
 
 ### What's the task? ###
 
-* Force use of TinyMCE in the Wordpress editor screen
 * Create a custom plugin
 * The plugin should create a custom post type called Videos
 * CPT must have these fields for admin: Title, Subtitle, Description, Video ID, and Provider (options are Youtube or Vimeo - dropdown or radio buttons)
